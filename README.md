@@ -1,4 +1,4 @@
-# Projeto de Modelagem de Banco de Dados: Biblioteca Universitária
+# Projeto de Modelagem de Banco de Dados: E-Libary
 
 Este repositório contém os scripts SQL para a criação e gerenciamento do banco de dados "Biblioteca Saber & Conhecimento", desenvolvido para a disciplina de Modelagem de Banco de Dados.
 
