@@ -8,7 +8,7 @@ O projeto simula um sistema de gestão para uma biblioteca universitária, contr
 
 ## Modelo Lógico (DER)
 
-(Inclua aqui a imagem final do seu DER, a `image_f0755f.png`)
+![Imagem do Diagrama de Entidade e Relacionamento](images/der.png)
 
 ## Scripts SQL
 
